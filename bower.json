@@ -1,0 +1,23 @@
+{
+	"name": "SearsPoc",
+	"version": "0.0.1",
+	"authors": [
+		"Kousik <kkotamr@searshc.com>"
+	],
+	"license": "MIT",
+	"private": true,
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+   	"dependencies": {
+	 	"angular": "1.5.8",
+	 	"angular-ui-router": "^0.3.1",
+		"bootstrap": "^3.3.7",
+		"jquery": "^3.1.0",
+		"angular-bootstrap": "^2.0.1"
+   	}
+}
